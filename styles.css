@@ -1,0 +1,17 @@
+
+        .content{
+            display: grid;
+            grid-template-rows: 1fr 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 10px;
+
+        }
+        #homePage {
+            border-style: double;
+            border-color: darkmagenta;
+            padding: 10px;
+        }
+
+        body{
+            color:red;
+        }
